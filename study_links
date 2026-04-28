@@ -16,3 +16,13 @@ https://juejin.cn/post/6844904004195975182 :Flask源码剖析(二):路由原理
 
 基于InnoDB的API分⻚设计 https://juejin.cn/post/6977388091262631967 
 MySQL插入优化与requests连接池 https://juejin.cn/post/6844904020012695566
+
+
+Python定时任务框架:APScheduler源码剖析(二) https://juejin.cn/post/6844904023313629197 
+Python定时任务框架:APScheduler源码剖析(三) https://juejin.cn/post/6844904034596290574 
+APScheduler定时器使用【重写SQLAlchemyJobStore版】:django中使用apscheduler，使用 mysql做存储后端 https://blog.csdn.net/weixin_46371752/article/details/138484654 
+Python中定时任务APScheduler库用法详解 https://blog.csdn.net/u012856866/article/details/132365438 
+定时器的两种实现方式(优先级队列&时间轮) https://blog.csdn.net/Aqua_yyds/article/details/133629517 
+APScheduler原理分析 https://juejin.cn/post/7036044818467782692 
+任务调度框架 Quartz 一文读懂 https://blog.csdn.net/zhouzhiwengang/article/details/126159139 
+Advanced Python Scheduler https://apscheduler.readthedocs.io/en/3.x/modules/jobstores/sqlalchemy.html
